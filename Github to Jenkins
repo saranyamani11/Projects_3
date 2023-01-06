@@ -4,3 +4,9 @@ Select the repository name and copy the link from code
 Go to Tomcat ->setting->webhooks->add webhooks
 Paste the code in Jenkins and save it
 Create a new item in Jenkins (Click build now for manual and For automation 
+
+
+
+
+
+Changed by saranya
